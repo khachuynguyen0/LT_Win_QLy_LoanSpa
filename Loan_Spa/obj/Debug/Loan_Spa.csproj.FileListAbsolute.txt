@@ -1,0 +1,51 @@
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\bin\Debug\Loan_Spa.exe.config
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\bin\Debug\Loan_Spa.exe
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\bin\Debug\Loan_Spa.pdb
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.BaoCao.resources
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.DichVu.resources
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.HangHoa.resources
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.HoaDon.resources
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.KhachHang.resources
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.Main.resources
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.NhaCungCap.resources
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.PhieuNhapHang.resources
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.exe
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Windows\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.pdb
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\bin\Debug\Loan_Spa.exe.config
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\bin\Debug\Loan_Spa.exe
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\bin\Debug\Loan_Spa.pdb
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.csproj.AssemblyReference.cache
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.BaoCao.resources
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.DichVu.resources
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.HangHoa.resources
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.HoaDon.resources
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.KhachHang.resources
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.Main.resources
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.NhaCungCap.resources
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.PhieuNhapHang.resources
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.Properties.Resources.resources
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.csproj.GenerateResource.cache
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.csproj.CoreCompileInputs.cache
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.exe
+D:\Code\Windows\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.pdb
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\bin\Debug\Loan_Spa.exe.config
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\bin\Debug\Loan_Spa.exe
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\bin\Debug\Loan_Spa.pdb
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.csproj.AssemblyReference.cache
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.BaoCao.resources
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.DichVu.resources
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.HangHoa.resources
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.HoaDon.resources
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.KhachHang.resources
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.Main.resources
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.NhaCungCap.resources
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.PhieuNhapHang.resources
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.Properties.Resources.resources
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.csproj.GenerateResource.cache
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.exe
+C:\Users\Hieu\Desktop\Loan_Spa\Loan_Spa\Loan_Spa\obj\Debug\Loan_Spa.pdb
